@@ -23,7 +23,7 @@ const About: NextPage = ({}) => {
       </Head>
       <h5 className="my-3 text-base font-medium">
         I am currently pursuing B.Tech Degree(Final Year) in Computer Science
-        Engineering from Academy of Technology. I have 3+ years of experience in
+        Engineering from DR BC ROY Engineering College. I have 2+ years of experience in
         Web Development.
       </h5>
       <div
